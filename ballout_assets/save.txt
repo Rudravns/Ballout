@@ -1,0 +1,1 @@
+{'player1': 0, 'player2': 2, 'Bot_skin': 2, 'LAN skin': 2, 'Bot_skin2': 1, 'learn': False, 'debug': False, 'mobile': False, 'bot_level': 10, 'bot_level2': 24, 'player_mass': 10, 'ball_mass': 1e-06, 'Single(SINGLEPLAYER)': True}
